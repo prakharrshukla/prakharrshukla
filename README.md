@@ -1,5 +1,5 @@
 
-🎓 **BE in Computer & Autonomous Systems Engineering** @ [UOWD](https://www.uowdubai.ac.ae)  
+🎓 **BE in Computer & Autonomous Systems Engineering** @ [UOW](https://www.uow.edu.au)  
 💡 Passionate about **AI, robotics, and autonomous systems**  
 ⚙️ Building stuff with **Python, C++, FastAPI, and embedded systems**  
 📍 From Delhi NCR, currently in Dubai 🇮🇳 ➡️ 🇦🇪  
