@@ -21,13 +21,6 @@
 
 ---
 
-## 📈 Current Goals
-- Master embedded AI for autonomous vehicles
-- Contribute to open-source robotics projects
-- Build a personal robotics portfolio
-
----
-
 ## 📬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-shukla-3b1852265/)  
 [![Instagram](https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prakharrrshukla_?igsh=MTNnajYwMXF4dzhpdQ%3D%3D&utm_source=qr)  
