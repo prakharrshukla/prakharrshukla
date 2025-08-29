@@ -1,34 +1,47 @@
+# Hi there, I'm Prakhar 👋  
 
-🎓 **BE in Computer & Autonomous Systems Engineering** @ [UOW](https://www.uow.edu.au)  
-💡 Passionate about **AI, robotics, and autonomous systems**  
-⚙️ Building stuff with **Python, C++, FastAPI, and embedded systems**  
-📍 From Delhi NCR, currently in Dubai 🇮🇳 ➡️ 🇦🇪  
-
----
-
-## 🚀 What I Do
-- 🤖 Design and program autonomous systems & robotics
-- 💻 Build APIs and backend systems
-- ⚡ Tinker with circuits, sensors, and embedded boards
-- 📊 Work on engineering experiments & simulations
+🎓 **Computer & Autonomous Systems Engineering Student** @ UOWD  
+💡 Exploring the intersection of **AI, Machine Learning & Autonomous Systems**  
+🔬 Curious about how **software + hardware** come together to solve real-world problems  
 
 ---
 
-## 🛠 Tech Stack
-**Languages:** Python, C++, JavaScript  
-**Frameworks & Tools:** FastAPI, Node.js, SQL, Arduino, MATLAB  
-**Other:** Git, Linux, Docker, REST APIs  
+## 🛠️ Tech Stack
+- **Languages:** Python, C++, JavaScript  
+- **Frameworks & Tools:** LangChain, TensorFlow, PyTorch, OpenAI API, Flask, Node.js  
+- **Other Skills:** Embedded Systems, APIs, Web Scraping, RAG pipelines  
 
 ---
 
-## 📬 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prakhar-shukla-3b1852265/)  
-[![Instagram](https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prakharrrshukla_?igsh=MTNnajYwMXF4dzhpdQ%3D%3D&utm_source=qr)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prakharshukl@gmail.com)  
+## 🚀 Current Focus
+- Building projects that blend **AI with engineering systems**  
+- Experimenting with **LLMs, RAG & LangChain**  
+- Exploring **robotics + automation** concepts  
 
 ---
 
-![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrakharShukla&show_icons=true&theme=tokyonight)  
+## 📂 Featured Projects
+- 🔹 **API Explorer** – A tool to explore & test public APIs with Python  
+- 🔹 **Autonomous Sensor System** – Prototype for data collection & analysis  
+- 🔹 **LLM-Powered Assistant** – Experiment with retrieval-augmented generation  
+
+---
+
+## 📊 GitHub Stats
+![Prakhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=prakharshukla&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prakharshukla&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/prakhar-shukla-3b1852265/)  
+- [Instagram](https://www.instagram.com/prakharrrshukla_/?igsh=MTNnajYwMXF4dzhpdQ%3D%3D&utm_source=qr#)  
+- 📩 Email: prakharshukl@gmail.com  
+
+---
+⭐ Always open to collaborations & new opportunities in **AI + Autonomous Systems** 🚀  
+
+
 
 > *"Turning caffeine into code and circuits into creations."* ☕⚡  
 
